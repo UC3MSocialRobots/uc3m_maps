@@ -1,0 +1,50 @@
+# This file contains all the possible places where the robot can go.
+
+# Place format:
+# place_name:
+#    x:
+#    y:
+#    z:
+#    w:
+# patrolling_route:
+# - lab_center
+# - tv
+# - hw_entrance
+# - develop
+places: {
+    tv: {
+        x: 15.41,
+        y: 27.74,
+        theta: -1.4926 
+    },
+    
+    corridor_1.3.C12: {
+        x: 12.21,
+        y: 30.38,
+        theta: 0
+    },
+
+    despacho_maria: {
+        x: 11.92,
+        y: 26.19,
+        theta: 0
+    },
+
+    door: {
+        x: 15.32,
+        y: 30.42,
+        theta: 0
+    },
+
+    charger: {
+        x: 14.23,
+        y: 33.95,
+        theta: 0 #2.93
+    },
+    
+    charger_rotated: {
+        x: 14.23,
+        y: 33.95,
+        theta: 0
+    }
+}

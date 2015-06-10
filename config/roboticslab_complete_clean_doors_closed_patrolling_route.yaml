@@ -1,0 +1,16 @@
+# This file contains all the possible places where the robot can go.
+
+# Place format:
+# place_name:
+#    x:
+#    y:
+#    z:
+#    w:
+patrolling_route:
+- charger
+- charger_rotated
+
+patrolling_route_2:
+- charger
+- tv
+- corridor
