@@ -1,8 +1,8 @@
 # uc3m_maps
 
-ROS package containings the maps of the University Carlos III of Madrid, Spain .
+ROS package containing the maps of the University Carlos III of Madrid, Spain .
 
-## Some example maps:
+## Some maps of this repo:
 ![UC3M's Systems Engineering and Automation Department](/maps/roboticslab_complete_clean.png?raw=true "UC3M's Systems Engineering and Automation Department")
 
 ## LICENSE
