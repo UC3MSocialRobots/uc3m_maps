@@ -22,8 +22,8 @@
 
     <!-- Url tags are optional, but mutiple are allowed, one per tag -->
     <url type="website">http://wiki.ros.org/uc3m_maps</url>
-    <url type="bugtracker">https://github.com/UC3MSocialRobots/maggie_navigation/issues</url>
-    <url type="repository">https://github.com/UC3MSocialRobots/maggie_navigation.git</url>
+    <url type="bugtracker">https://github.com/UC3MSocialRobots/uc3m_maps/issues</url>
+    <url type="repository">https://github.com/UC3MSocialRobots/uc3m_maps.git</url>
 
 
     <!-- The *_depend tags are used to specify dependencies -->
