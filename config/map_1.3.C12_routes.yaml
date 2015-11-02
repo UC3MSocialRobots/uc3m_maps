@@ -1,0 +1,7 @@
+# This file contains all the possible places where the robot can go.
+
+patrolling_route:
+- '1.3.C12_charger'
+- '1.3.C12_door'
+- '1.3.C12_tv'
+- '1.3.C12_develop'
