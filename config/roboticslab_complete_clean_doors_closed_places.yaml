@@ -41,7 +41,6 @@ places: {
         y: 33.95,
         theta: 0 #2.93
     },
-    
     charger_rotated: {
         x: 14.23,
         y: 33.95,

@@ -1,5 +1,11 @@
 # This file contains all the possible places where the robot can go.
 
+# Place format:
+# place_name:
+#    x:
+#    y:
+#    z:
+#    w:
 places: {
     '1.3.CD_stairwell_2': {
         id: '1.3.CD_stairwell_2',
@@ -10,7 +16,7 @@ places: {
         theta: 0.46
     },
     
-    '1.3.CD_stairwell_1': {
+        '1.3.CD_stairwell_1': {
         id: '1.3.CD_stairwell_1',
         name: stairwell_cd_1,
         x: 7.9,
@@ -35,6 +41,51 @@ places: {
         y: 14.9,
         z: 0.0,
         theta: 1.37
+    },
+
+    '1.3.C12_TV': {
+        id: '1.3.C12_TV',
+        name: TV,
+        x: 15.41,
+        y: 27.74,
+        z: 0.0,
+        theta: -1.4926 
+    },
+
+    '1.3.C12_charger': {
+        id: '1.3.C12_charger',
+        name: charger,
+        x: 14.37,
+        y: 33.85,
+        z: 0.0,
+        theta: 0.0 #2.93
+    },
+
+    '1.3.C12_centre': {
+        id: '1.3.C12_centre',
+        name: centre,
+        x: 17.4,
+        y: 31.48,
+        z: 0.0,
+        theta: 1.4926
+    },
+
+    '1.3.C12_maggie': {
+        id: '1.3.C12_maggie',
+        name: maggie,
+        x: 15.01,
+        y: 31.8,
+        z: 0.0,
+        theta: 3.1416
+    },
+
+    '1.3.C12_inigo': {
+        id: '1.3.C12_inigo',
+        name: inigo,
+        x: 17.09,
+        y: 32.97,
+        z: 1.4926,
+        theta: 3.1416
     },
 
     '1.3.AB_map': {
@@ -305,24 +356,6 @@ places: {
         x: 11.9978854184,
         y: 30.4461059621,
         z: 0.0
-    },
-    
-    '1.3.C12_TV': {
-        id: '1.3.C12_TV',
-        name: TV,
-        x: 15.41,
-        y: 27.74,
-        z: 0.0,
-        theta: -1.4926 
-    },
-
-    '1.3.C12_charger': {
-        id: '1.3.C12_charger',
-        name: charger,
-        x: 14.23,
-        y: 33.95,
-        z: 0.0,
-        theta: 0 #2.93
     },
 
     '1.3.C13': {
