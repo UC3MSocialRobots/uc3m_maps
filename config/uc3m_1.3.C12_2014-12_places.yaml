@@ -1,0 +1,51 @@
+# This file contains all the possible places where the robot can go.
+
+# Place format:
+# place_name:
+#    x:
+#    y:
+#    z:
+#    w:
+places: {
+    tv: {
+        x: 1.334,
+        y: 0.785,
+        theta: 1.56202821445
+    },
+
+    door: {
+        x: 2.5,
+        y: -1.03,
+        theta: 0
+    },
+
+    charger: {
+        x: -0.3,
+        y: 2.00,
+        theta: -1.57
+    },
+
+    develop: {
+        x: -0.3,
+        y: 0.3385,
+        theta: 0
+    },
+
+    hw_corner: {
+        x: 0.3,
+        y: -3.0,
+        theta: 1.57
+    },
+
+    lab_center: {
+        x: 0.6,
+        y: -1.1,
+        theta: 0
+    },
+
+    hw_entrance: {
+      x: 2.75,
+      y: -5.2,
+      theta: 1.57
+    }
+}
