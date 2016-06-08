@@ -54,3 +54,4 @@ test_results
 CTestTestfile.cmake
 CMakeFiles
 catkin
+/.gitignore
