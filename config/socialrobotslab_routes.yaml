@@ -1,0 +1,7 @@
+# This file contains all the possible places where the robot can go at the lab.
+
+patrolling_route:
+- '1.3.C12_center'
+- '1.3.C12_door'
+- '1.3.C12_maggie_charger'
+- '1.3.C12_tv'
