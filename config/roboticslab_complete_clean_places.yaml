@@ -335,7 +335,7 @@ places: {
     },
     
     '1.3.C12_mbot_charger': {
-        id: '1.3.C12_charger',
+        id: '1.3.C12_mbot_charger',
         name: charger,
         x: 14.23,
         y: 33.95,
